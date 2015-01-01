@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-The first repository.
+The first repository. I'm new at coding
